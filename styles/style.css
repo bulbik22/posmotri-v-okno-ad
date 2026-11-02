@@ -252,10 +252,9 @@ ol {
 }
 .result__video-container {
   margin-top: 211px;
-  position: relative; /* Теперь прелоадер будет привязан к видео */
+  position: relative;
 }
 
 .content__list-container {
-  position: relative; /* Теперь прелоадер будет привязан к списку карточек */
-  /* ваши существующие стили (height, overflow и т.д.) оставляем */
+  position: relative;
 }
